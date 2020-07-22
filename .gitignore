@@ -1,0 +1,10 @@
+CycleGAN_exercise/summer2winter_yosemite/
+CycleGAN_exercise/__MACOSX/
+CycleGAN_exercise/__pycache__/
+images/photo2bau/
+doc/paper-GAN_Annie.pdf
+doc/paper-cycle-GAN_Annie.pdf
+images/bauhaus_paintings
+annie/*
+images/renaissance_paintings
+CycleGAN_exercise/samples_cyclegan
