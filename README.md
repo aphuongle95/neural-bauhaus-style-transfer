@@ -1,7 +1,7 @@
 # neural-bauhaus-style-transfer
 
 This repository hosts the code of the students' project Neural Bauhaus Style Transfer. It took place in the winter term 2019/20 and was supervised by Christian Benz (christian.benz@uni-weimar.de).
-
+[Final presentation](presentation.pdf)
 
 # Git Exercise
 
