@@ -4,15 +4,13 @@ This repository hosts the code of the students' project Neural Bauhaus Style Tra
 
 [Final presentation](doc/Final%20Presentation.pdf)
 
-# Git Exercise
+# Results
 
-Please introduce yourself after the colon: My name is Christian.
+![Some results of style transfer](screenshot.png)
 
-Please introduce yourself after the colon: My name is Xiaoni Cai.
+# Contributors
 
-Please introduce yourself after the colon: My name is Sneha Mohanty.
-
-Please introduce yourself after the colon: My name is Anh Phuong Le (Annie).
+Christian, Xiaoni Cai, Sneha Mohanty, Anh Phuong Le (Annie).
 
 # Final deliveries
 
